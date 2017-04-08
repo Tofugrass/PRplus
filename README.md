@@ -1,6 +1,8 @@
 # PRplus
-The file to download is PRplus.jar, it is an executable that runs on windows and mac without installation. 
 
+v2.0 COMING SOON!
+
+The file to download is PRplus.jar, it is an executable that runs on windows and mac without installation. 
 
 Video Guide (MUST WATCH):
 https://www.youtube.com/watch?v=Kg9e7sRv_xI
@@ -19,3 +21,7 @@ Exclude any matches or placings
 Manually enter a new match or tournament
 Export all data into a .txt to fast import on next session
 Imports data from .txt
+
+Known Bugs:
+Merging players with excluded matches producs errors. Always include all of both players matches before merging.
+Manually importing tournament causes errors. I would recommend avoiding this feature until fixed. 
